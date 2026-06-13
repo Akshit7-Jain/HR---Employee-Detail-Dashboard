@@ -102,6 +102,25 @@ department, location, gender, education, and employment status.
 
 ---
 
+## File Structure
+HR_dashboard_Made.twbx
+
+├── HR dashboard Made.twb       # Tableau workbook (XML)
+
+├── Data/
+
+│   └── dataset.csv             # Embedded HR data (Hyper extract)
+
+└── Image/
+
+├── Logo.png
+
+├── dashboard-summary-active.png
+
+├── dashboard-records-active.png
+
+└── ...                     # Navigation & UI icons
+
 ### 6.	Screenshots
  ![Dashboard Preview](https://github.com/Akshit7-Jain/HR---Employee-Detail-Dashboard/blob/main/HR%20Dashboard%20Overview.png)
 ![Dashboard Preview](https://github.com/Akshit7-Jain/HR---Employee-Detail-Dashboard/blob/main/Employee%20Dashboard%20Details.png)
