@@ -103,5 +103,5 @@ department, location, gender, education, and employment status.
 ---
 
 ### 6.	Screenshots
- ![Dashboard Preview]()
+ ![Dashboard Preview](https://github.com/Akshit7-Jain/HR---Employee-Detail-Dashboard/blob/main/HR%20Dashboard%20Overview.png)
 ![Dashboard Preview]()
