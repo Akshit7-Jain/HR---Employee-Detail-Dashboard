@@ -102,4 +102,6 @@ department, location, gender, education, and employment status.
 
 ---
 
-## File Structure
+### 6.	Screenshots
+ ![Dashboard Preview]()
+![Dashboard Preview]()
