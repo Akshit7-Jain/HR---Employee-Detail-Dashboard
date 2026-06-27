@@ -16,6 +16,12 @@ individual employee data on demand.
 
 ---
 
+ ![Dashboard Preview](https://github.com/Akshit7-Jain/HR---Employee-Detail-Dashboard/blob/main/HR%20dashboard%20Overview.png)
+ 
+![Dashboard Preview](https://github.com/Akshit7-Jain/HR---Employee-Detail-Dashboard/blob/main/Employee%20Dashboard%20Details.png)
+
+---
+
 ## Tools & Technologies
 
 - 📊 **Tableau Desktop** — Primary data visualization and dashboard platform
@@ -121,6 +127,4 @@ HR_dashboard_Made.twbx
 
 └── ...                     # Navigation & UI icons
 
-### 6.	Screenshots
- ![Dashboard Preview](https://github.com/Akshit7-Jain/HR---Employee-Detail-Dashboard/blob/main/HR%20Dashboard%20Overview.png)
-![Dashboard Preview](https://github.com/Akshit7-Jain/HR---Employee-Detail-Dashboard/blob/main/Employee%20Dashboard%20Details.png)
+
